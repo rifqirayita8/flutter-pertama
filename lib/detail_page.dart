@@ -60,7 +60,7 @@ class DetailPage extends StatelessWidget {
             padding: EdgeInsets.all(8.0),
             child: Text(
               "Description",
-              style: TextStyle(fontSize: 24, fontWeight: FontWeight.w400),
+              style: TextStyle(fontSize: 24, fontWeight: FontWeight.w400, ),
               ),
             ),
             Padding(
